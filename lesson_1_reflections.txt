@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+ 
+It is helpful specially while having a long text, to not read everything 
+
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+You can check older versions and in case of errors come back as using an undo button
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+ commit,
+like you do in Git, vs having versions automatically saved, like Google
+docs does?
+To save space it is good not to save every version, and also to be able to read the history, 
+if not the history will be as complecated as reading the text itself, this is pro.
+it is sometimes difficult to decide when to save, if you dedcide not and later you need
+ that old version but not the too old one then it is a con.
+
+
+
+Why do you think some version control systems, like Git,
+allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Because it is better!
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+ 
+
+By git log we see the list of all the commits done from the begining. 
+With a message explaining what is the global change in the commit.
+Then we choose the commit that interest us and if we want to compare our file with this change
+ with the version just before it
+ we use git diff then space then the id of the older version then space
+ then the id of the new version, so git diff list for us the paragraphs with changes
+what was deleted in red and what was added in green, what is in black is not touched in that paragraph
+
+How might using version control make you more confident to make changes that
+could break something?
+
+ 
+
+I am now confident, since i can come back to any previous version i want in case of bugs.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Everything that it can be done with it. I wan to learn a lot, I want to practice with real projects.
