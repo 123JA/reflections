@@ -7,10 +7,17 @@ staging area is in between the 2 others, it is temporary with its contents and m
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-Since changing area is a temporary area where i can add and remove without problems, I can add changes to staging area, then think about them and check whether they below to the same logical change. Then I decide to commit them all together or commit some together and some others in another commit, or even decide that it is not needed to commit so I reset some files and remove the changes and remove them from the staging area.
+Since changing area is a temporary area where i can add and remove without problems,
+ I can add changes to staging area, then think about them and check whether they below to the same logical change.
+ Then I decide to commit them all together or commit some together and some others in another commit,
+ or even decide that it is not needed to commit so I reset some files 
+ and remove the changes and remove them from the staging area.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+It is helpful when the changes done are on the same level of work not behind each other. 
+Also when you need to keep returning to a version as the real good one and the brnches are two different experiments
+but you are not sure which one will work.
 
 How do the diagrams help you visualize the branch structure?
 
