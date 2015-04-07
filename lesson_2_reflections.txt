@@ -20,6 +20,8 @@ Also when you need to keep returning to a version as the real good one and the b
 but you are not sure which one will work.
 
 How do the diagrams help you visualize the branch structure?
+It helps specially to recognize whether a commit is reachable or not,
+so whether we will lose it if we don't create a new branch or not. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
