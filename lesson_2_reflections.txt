@@ -30,3 +30,7 @@ because it is the logic way to represent it.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+It is very quick automaticaly than manually. When no conflits exist then git is great all is done in one command. 
+When there is a conflict also git is good since it merge everything except the part with conflict.
+It tells you where it is and it give you the original aprt with the two modifications and then it is easy for you to catch the conflict to resolve it.
+So in all the cases git is great!
