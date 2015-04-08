@@ -25,6 +25,8 @@ so whether we will lose it if we don't create a new branch or not.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+the result is one branch that contains all the commits of the two branches in chronological order.
+because it is the logic way to represent it.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
